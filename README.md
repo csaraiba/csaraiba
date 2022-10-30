@@ -1,6 +1,6 @@
 ## Hey! 👋🏼
 
-I'm Cristóbal Saraiba Torres (a.k.a. csaraiba)
+I'm Cristóbal Saraiba Torres
 
 I am an software engineering student at Universidad Complutense de Madrid and I'm interested in cybersecurity and competitive programming.
 
